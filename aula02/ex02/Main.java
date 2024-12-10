@@ -7,7 +7,6 @@ public class Main {
         meuControle.trocarCanal();
         meuControle.ligar();
         meuControle.trocarCanal();
-        meuControle.getStatusTv();
         minhaTv.marca = "Sansung";
         meuControle.getStatusTv();
 

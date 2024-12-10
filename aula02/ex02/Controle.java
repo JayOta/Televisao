@@ -1,6 +1,9 @@
 package aula02.ex02;
 import java.util.Scanner;
 
+// Nós utilizamos o controle para controlar a televisão, logo o controle terá os métodos para
+// controlar a televisão(ligar, desligar, trocar canal..).
+
 public class Controle {
     Tv minhaTv = new Tv();
     public String tamanho;
@@ -8,8 +11,7 @@ public class Controle {
     public String marca;
     public boolean fisico;
     
-
-    public Controle(Tv tv){ // pensar em como utilizar tmb o "void" aqui e aparecer lá no getStatusControle
+    public Controle(Tv tv){ // Método construtor
         this.tamanho = "Médio";
         this.cor = "Preto";
         this.marca = "Escolher";
