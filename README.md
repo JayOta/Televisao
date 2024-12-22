@@ -1,3 +1,3 @@
 # Atividade-POO-Java
 ## Utilize o Controle para controlar a Televisão!
-Esta é uma atividade simples em java que produzi, nela eu aprendi sobre as classes, atributos e métodos.
+Esta é uma simples atividade em java, que produzi utilizando o Encapsulamento!
